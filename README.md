@@ -1,3 +1,3 @@
-# jogos
+# JOGOS
 
-Jogos desenvolvidos atráves do curso da Alura de programação orientada a objetos
+## Jogos desenvolvidos atráves do curso da Alura de programação orientada a objetos
